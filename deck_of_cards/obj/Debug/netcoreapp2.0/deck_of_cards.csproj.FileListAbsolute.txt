@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/bin/Debug/netcoreapp2.0/deck_of_cards.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/bin/Debug/netcoreapp2.0/deck_of_cards.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/bin/Debug/netcoreapp2.0/deck_of_cards.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/bin/Debug/netcoreapp2.0/deck_of_cards.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/bin/Debug/netcoreapp2.0/deck_of_cards.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/obj/Debug/netcoreapp2.0/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/obj/Debug/netcoreapp2.0/deck_of_cards.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/obj/Debug/netcoreapp2.0/deck_of_cards.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/obj/Debug/netcoreapp2.0/deck_of_cards.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/deck_of_cards/obj/Debug/netcoreapp2.0/deck_of_cards.pdb
