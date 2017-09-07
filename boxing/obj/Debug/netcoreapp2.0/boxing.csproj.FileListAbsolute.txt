@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/bin/Debug/netcoreapp2.0/boxing.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/bin/Debug/netcoreapp2.0/boxing.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/bin/Debug/netcoreapp2.0/boxing.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/bin/Debug/netcoreapp2.0/boxing.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/obj/Debug/netcoreapp2.0/boxing.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/obj/Debug/netcoreapp2.0/boxing.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/obj/Debug/netcoreapp2.0/boxing.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/boxing/obj/Debug/netcoreapp2.0/boxing.pdb
