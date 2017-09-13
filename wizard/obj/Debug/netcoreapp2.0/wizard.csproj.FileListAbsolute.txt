@@ -1,0 +1,10 @@
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/bin/Debug/netcoreapp2.0/wizard.deps.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/bin/Debug/netcoreapp2.0/wizard.runtimeconfig.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/bin/Debug/netcoreapp2.0/wizard.runtimeconfig.dev.json
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/bin/Debug/netcoreapp2.0/wizard.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/bin/Debug/netcoreapp2.0/wizard.pdb
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/obj/Debug/netcoreapp2.0/wizard.csproj.CoreCompileInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/obj/Debug/netcoreapp2.0/wizard.AssemblyInfoInputs.cache
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/obj/Debug/netcoreapp2.0/wizard.AssemblyInfo.cs
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/obj/Debug/netcoreapp2.0/wizard.dll
+/Users/johnpauldoherty/Desktop/DojoAssignments/netCore/wizard/obj/Debug/netcoreapp2.0/wizard.pdb
