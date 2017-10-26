@@ -161,7 +161,7 @@ namespace basic_13
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
-            // OneToTwoFiftyFive();
+            OneToTwoFiftyFive();
             // OneToTwoFiftyFiveOdds();
             // Sum();
             // int[] testArray = {-3, -2, -1, 0, 1, 2, 3, 4, 5, 6};
