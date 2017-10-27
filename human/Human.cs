@@ -26,10 +26,14 @@ namespace human
             health = newHealth;
         }
 
-        public void Attack(Human attacked)
+        public void Attack(object attacked)
         {
-            int damage = 5 * strength;
-            attacked.health -= damage;
+            if (attacked is Human) {
+                Human victim = attacked as Human;
+                int damage = 5 * strength;
+                victim.health -= damage;    
+            }
+            
         }
     }
 }
